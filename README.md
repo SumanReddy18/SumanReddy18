@@ -94,6 +94,31 @@ I'm a Software Development Engineer in Test (SDET) with expertise in automation 
   </a>
 </div>
 
+<h2> 🔥 Repository Contributions & Activity </h2>
+
+<div align="center">
+  <!-- Repository contributions & commit activity -->
+  <p align="center">
+    <a href="https://github.com/SumanReddy18">
+      <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=SumanReddy18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumanReddy18&theme=tokyonight" alt="Most Commit Languages"/>
+    </a>
+  </p>
+  
+  <!-- Repository specific commit activity -->
+  <p align="center">
+    <a href="https://github.com/SumanReddy18">
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumanReddy18&theme=tokyonight" alt="Repository Languages"/>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumanReddy18&theme=tokyonight" alt="Contribution Stats"/>
+    </a>
+  </p>
+  
+  <!-- Commit activity timeline -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanReddy18&theme=tokyonight" alt="Detailed Contribution Activity" width="100%"/>
+  </p>
+</div>
+
 <h2> 🤝 Connect with Me </h2>
 
 <p align="center">
