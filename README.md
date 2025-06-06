@@ -22,11 +22,10 @@ I'm a Software Development Engineer in Test (SDET) with expertise in automation 
 <summary>Click to expand!</summary>
 
 **Testing Frameworks & Tools**  
-<!-- Dynamic testing tools based on repository topics -->
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=selenium&label=Selenium&labelColor=43B02A&color=43B02A&logoColor=white&style=flat" alt="Selenium">
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=cypress&label=Cypress&labelColor=17202C&color=17202C&logoColor=white&style=flat" alt="Cypress">
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=pytest&label=Pytest&labelColor=0A9EDC&color=0A9EDC&logoColor=white&style=flat" alt="Pytest">
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=playwright&label=Playwright&labelColor=2EAD33&color=2EAD33&logoColor=white&style=flat" alt="Playwright">
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 **Programming Languages**  
 <!-- Dynamic language badges based on actual GitHub usage -->
@@ -35,47 +34,20 @@ I'm a Software Development Engineer in Test (SDET) with expertise in automation 
 </div>
 
 **DevOps & Cloud**  
-<!-- Dynamic DevOps tools based on repository topics -->
-<div id="devops-badges">
-  <script>
-    fetch('https://api.github.com/users/SumanReddy18/repos')
-      .then(response => response.json())
-      .then(data => {
-        const topics = data.flatMap(repo => repo.topics || []);
-        const devopsTools = {
-          'docker': {color: '2496ED', label: 'Docker'},
-          'kubernetes': {color: '326CE5', label: 'Kubernetes'},
-          'aws': {color: '232F3E', label: 'AWS'},
-          'gcp': {color: '4285F4', label: 'GCP'},
-          'azure': {color: '0089D6', label: 'Azure'},
-          'jenkins': {color: 'D24939', label: 'Jenkins'}
-        };
-        
-        Object.keys(devopsTools).forEach(tool => {
-          if (topics.includes(tool)) {
-            document.write(`<img src="https://img.shields.io/badge/-${devopsTools[tool].label}-${devopsTools[tool].color}?style=flat&logo=${tool}&logoColor=white" alt="${devopsTools[tool].label}">`);
-          }
-        });
-      });
-  </script>
-  <!-- Fallback for GitHub markdown which doesn't execute scripts -->
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=docker&label=Docker&labelColor=2496ED&color=2496ED&logoColor=white&style=flat" alt="Docker">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=kubernetes&label=Kubernetes&labelColor=326CE5&color=326CE5&logoColor=white&style=flat" alt="Kubernetes">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=aws&label=AWS&labelColor=232F3E&color=232F3E&logoColor=white&style=flat" alt="AWS">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=gcp&label=GCP&labelColor=4285F4&color=4285F4&logoColor=white&style=flat" alt="GCP">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=azure&label=Azure&labelColor=0089D6&color=0089D6&logoColor=white&style=flat" alt="Azure">
-  <img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=jenkins&label=Jenkins&labelColor=D24939&color=D24939&logoColor=white&style=flat" alt="Jenkins">
-</div>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 **Infrastructure as Code**  
-<!-- Dynamic IaC tools based on repository topics -->
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=terraform&label=Terraform&labelColor=7B42BC&color=7B42BC&logoColor=white&style=flat" alt="Terraform">
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=ansible&label=Ansible&labelColor=EE0000&color=EE0000&logoColor=white&style=flat" alt="Ansible">
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 **Monitoring & Observability**  
-<!-- Dynamic monitoring tools based on repository topics -->
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=grafana&label=Grafana&labelColor=F46800&color=F46800&logoColor=white&style=flat" alt="Grafana">
-<img src="https://img.shields.io/endpoint?url=https://github-readme-skills-badge.vercel.app/api/skills?username=SumanReddy18&skill=prometheus&label=Prometheus&labelColor=E6522C&color=E6522C&logoColor=white&style=flat" alt="Prometheus">
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 </details>
 
