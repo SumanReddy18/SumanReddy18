@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>🔭 Currently working on:</b> BrowserStack's Accessibility Engine<br>
+  <b>🔭 Currently working at:</b> BrowserStack's Accessibility<br>
   <b>🌱 Learning:</b> AI/ML in Testing, Advanced Cloud Architecture<br>
   <b>💬 Ask me about:</b> Test Automation, DevOps, Cloud Infrastructure<br>
   <b>📫 Reach me at:</b> sumanreddy568@gmail.com
