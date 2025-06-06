@@ -117,6 +117,32 @@ I'm a Software Development Engineer in Test (SDET) with expertise in automation 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanReddy18&theme=tokyonight" alt="Detailed Contribution Activity" width="100%"/>
   </p>
+  
+  <!-- Organization Repository Contributions -->
+  <h3>🏢 Organization Contributions</h3>
+  <p align="center">
+    <a href="https://github.com/SumanReddy18">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrowserStackCE&repo=browserstack-examples-cypress&theme=tokyonight" alt="BrowserStack Cypress Examples"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=browserstack&repo=browserstack-local-nodejs&theme=tokyonight" alt="BrowserStack Local NodeJS"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/SumanReddy18">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=browserstack&repo=testng-browserstack&theme=tokyonight" alt="TestNG BrowserStack"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=browserstack&repo=browserstack-cypress-cli&theme=tokyonight" alt="BrowserStack Cypress CLI"/>
+    </a>
+  </p>
+  
+  <!-- Private Contribution Stats (includes org contributions) -->
+  <h3>🔒 Including Private Contributions</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SumanReddy18&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true&text_bold=false&hide_rank=false&line_height=28" alt="Private Contribution Stats" width="60%"/>
+  </p>
+  
+  <!-- All Contributions Heatmap (includes org repos) -->
+  <p align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=SumanReddy18&theme=tokyonight&include_orgs=true" alt="All Contributions Including Organizations" width="60%"/>
+  </p>
 </div>
 
 <h2> 🤝 Connect with Me </h2>
